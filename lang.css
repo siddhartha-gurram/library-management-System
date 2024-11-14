@@ -1,0 +1,40 @@
+/* Style for language selector buttons */
+#languageSelector {
+    margin: 10px 0;
+}
+
+#changeToEnglish, #changeToSpanish {
+    font-size: 16px;
+    padding: 5px 10px;
+    margin-right: 10px;
+}
+
+/* Style for books and about me sections */
+#books, #about_me {
+    margin: 20px 0;
+}
+
+/* Style for book entries */
+#books div {
+    margin-bottom: 10px;
+}
+
+#books h2, #about_me h1, #about_me h2, #about_me h3 {
+    margin: 5px 0;
+}
+
+#books h3, #about_me h3, #about_me p, #about_me ul {
+    margin: 3px 0;
+}
+
+/* Style for logout button */
+#log_button {
+    font-size: 16px;
+    padding: 8px 16px;
+    margin-top: 10px;
+}
+
+/* Hide the Spanish button by default */
+#changeToSpanish {
+    display: none;
+}
