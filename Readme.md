@@ -29,8 +29,8 @@ https://rajpra786.github.io/Library-Management-System/index.html
 - ##### Rajendra Prajapat
 - ##### Dheeraj Chaudhary
 - ##### Priya Tiru
-- ##### Rajdeep Das
+- ##### Siddhartha Gurram
 - ##### Shashank N S
 
-##### Supervised By- Prof. Channappa B AKKI
-###### Academic Year: 2018-2019
+##### Supervised By- Prof. yung li
+###### Academic Year: 2023
